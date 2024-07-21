@@ -1,2 +1,2 @@
 # Spotify-Clone
-Clone of Spotify UI usinh HTML CSS and JAVASCRIPT.
+Clone of Spotify UI using HTML CSS and JAVASCRIPT.
